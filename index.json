@@ -5,8 +5,8 @@
     "zh": "DSH 插件索引"
   },
   "description": {
-    "en": "Public index of 2488 DSH bundles published to npm, rebuilt from the registry.",
-    "zh": "公开索引：收录 npm 上 2488 个 DSH 组合包，按 registry 重建。"
+    "en": "Public index of 2489 DSH bundles published to npm, rebuilt from the registry.",
+    "zh": "公开索引：收录 npm 上 2489 个 DSH 组合包，按 registry 重建。"
   },
   "metadata": {
     "categories": {
@@ -27817,51 +27817,6 @@
         {
           "version": "0.1.0",
           "publishTimestamp": 1791714431,
-          "source": {
-            "type": "npm"
-          }
-        }
-      ]
-    },
-    {
-      "name": "@dsh-stack/bundle-integrations",
-      "title": {
-        "en": "Bundle Integrations"
-      },
-      "description": {
-        "en": "Native DSH @dsh-stack/bundle-integrations composition bundle"
-      },
-      "homepage": "https://github.com/marius-patrik/dsh-stack#readme",
-      "repository": {
-        "url": "https://github.com/marius-patrik/dsh-stack",
-        "directory": "plugins/stack/integrations"
-      },
-      "metadata": {
-        "category": "extension",
-        "keywords": [],
-        "labels": [],
-        "sortKeys": {
-          "publishedTimestamp": 1791912924
-        }
-      },
-      "versions": [
-        {
-          "version": "0.1.2",
-          "publishTimestamp": 1791912924,
-          "source": {
-            "type": "npm"
-          }
-        },
-        {
-          "version": "0.1.1",
-          "publishTimestamp": 1791718314,
-          "source": {
-            "type": "npm"
-          }
-        },
-        {
-          "version": "0.1.0",
-          "publishTimestamp": 1791714572,
           "source": {
             "type": "npm"
           }
@@ -67449,6 +67404,59 @@
         {
           "version": "0.2.1-alpha.2",
           "publishTimestamp": 1791783154,
+          "source": {
+            "type": "npm"
+          }
+        }
+      ]
+    },
+    {
+      "name": "@qlzt/dsh-experimental-voice-input-bundle",
+      "title": {
+        "en": "Experimental Voice Input"
+      },
+      "description": {
+        "en": "Experimental voice input with local SenseVoice; downloads its runtime on first use"
+      },
+      "repository": {
+        "url": "https://gitee.com/zsping1989/deepseek-harness",
+        "directory": "packages/experimental/voice-input-bundle"
+      },
+      "metadata": {
+        "category": "experimental",
+        "keywords": [],
+        "labels": [
+          "experimental"
+        ],
+        "sortKeys": {
+          "publishedTimestamp": 1792640959
+        }
+      },
+      "versions": [
+        {
+          "version": "0.2.2-rc.1",
+          "publishTimestamp": 1792640959,
+          "source": {
+            "type": "npm"
+          }
+        },
+        {
+          "version": "0.2.1-rc.2",
+          "publishTimestamp": 1792392975,
+          "source": {
+            "type": "npm"
+          }
+        },
+        {
+          "version": "0.2.1-alpha.3",
+          "publishTimestamp": 1791793726,
+          "source": {
+            "type": "npm"
+          }
+        },
+        {
+          "version": "0.2.1-alpha.2",
+          "publishTimestamp": 1791783132,
           "source": {
             "type": "npm"
           }
@@ -191216,6 +191224,120 @@
       ]
     },
     {
+      "name": "dsh-plugin-soulbridge",
+      "title": {
+        "en": "Plugin Soulbridge"
+      },
+      "description": {
+        "en": "Inject soulbridge context into DSH sessions and feed user turns back as observations."
+      },
+      "homepage": "https://github.com/Jason0826/dsh-plugin-soulbridge#readme",
+      "repository": {
+        "url": "https://github.com/Jason0826/dsh-plugin-soulbridge"
+      },
+      "metadata": {
+        "category": "extension",
+        "keywords": [
+          "dsh",
+          "dsh-plugin",
+          "cordis",
+          "soulbridge",
+          "memory",
+          "agent"
+        ],
+        "labels": [],
+        "sortKeys": {
+          "publishedTimestamp": 1794409863
+        }
+      },
+      "versions": [
+        {
+          "version": "0.0.137",
+          "publishTimestamp": 1794409863,
+          "source": {
+            "type": "npm"
+          }
+        },
+        {
+          "version": "0.0.136",
+          "publishTimestamp": 1794367611,
+          "source": {
+            "type": "npm"
+          }
+        },
+        {
+          "version": "0.0.135",
+          "publishTimestamp": 1794360646,
+          "source": {
+            "type": "npm"
+          }
+        },
+        {
+          "version": "0.0.134",
+          "publishTimestamp": 1794319558,
+          "source": {
+            "type": "npm"
+          }
+        },
+        {
+          "version": "0.0.133",
+          "publishTimestamp": 1794147378,
+          "source": {
+            "type": "npm"
+          }
+        },
+        {
+          "version": "0.0.132",
+          "publishTimestamp": 1794144449,
+          "source": {
+            "type": "npm"
+          }
+        },
+        {
+          "version": "0.0.131",
+          "publishTimestamp": 1794138639,
+          "source": {
+            "type": "npm"
+          }
+        },
+        {
+          "version": "0.0.130",
+          "publishTimestamp": 1794138151,
+          "source": {
+            "type": "npm"
+          }
+        },
+        {
+          "version": "0.0.129",
+          "publishTimestamp": 1794102954,
+          "source": {
+            "type": "npm"
+          }
+        },
+        {
+          "version": "0.0.128",
+          "publishTimestamp": 1794102623,
+          "source": {
+            "type": "npm"
+          }
+        },
+        {
+          "version": "0.0.127",
+          "publishTimestamp": 1794063578,
+          "source": {
+            "type": "npm"
+          }
+        },
+        {
+          "version": "0.0.126",
+          "publishTimestamp": 1794059663,
+          "source": {
+            "type": "npm"
+          }
+        }
+      ]
+    },
+    {
       "name": "dsh-plugin-spark",
       "title": {
         "en": "Plugin Spark"
@@ -208551,10 +208673,20 @@
         ],
         "labels": [],
         "sortKeys": {
-          "publishedTimestamp": 1794591546
+          "publishedTimestamp": 1794672042
         }
       },
       "versions": [
+        {
+          "version": "1.3.1",
+          "publishTimestamp": 1794672042,
+          "source": {
+            "type": "npm"
+          },
+          "engines": {
+            "dsh": ">=0.2.0"
+          }
+        },
         {
           "version": "1.3.0-beta.1",
           "publishTimestamp": 1794591546,
@@ -208640,13 +208772,6 @@
         {
           "version": "1.0.7",
           "publishTimestamp": 1794067604,
-          "source": {
-            "type": "npm"
-          }
-        },
-        {
-          "version": "1.0.6",
-          "publishTimestamp": 1794049884,
           "source": {
             "type": "npm"
           }
@@ -218003,127 +218128,6 @@
         {
           "version": "0.1.2",
           "publishTimestamp": 1787303601,
-          "source": {
-            "type": "npm"
-          }
-        }
-      ]
-    },
-    {
-      "name": "dsh-spend",
-      "title": {
-        "en": "Spend"
-      },
-      "description": {
-        "en": "Token usage, multi-dimensional statistics, auto-detected billing plans (Code/Token) and estimated spend for the dsh web UI"
-      },
-      "author": "ziheng",
-      "homepage": "https://github.com/nonewind/dsh-spend#readme",
-      "repository": {
-        "url": "https://github.com/nonewind/dsh-spend"
-      },
-      "metadata": {
-        "category": "extension",
-        "keywords": [
-          "dsh",
-          "deepseek-harness",
-          "token",
-          "usage",
-          "tokens",
-          "billing",
-          "cost",
-          "spend",
-          "monitoring",
-          "plugin",
-          "codex",
-          "opencode"
-        ],
-        "labels": [],
-        "sortKeys": {
-          "publishedTimestamp": 1788748802
-        }
-      },
-      "versions": [
-        {
-          "version": "0.6.3",
-          "publishTimestamp": 1788748802,
-          "source": {
-            "type": "npm"
-          }
-        },
-        {
-          "version": "0.6.2",
-          "publishTimestamp": 1787791422,
-          "source": {
-            "type": "npm"
-          }
-        },
-        {
-          "version": "0.6.1",
-          "publishTimestamp": 1787790454,
-          "source": {
-            "type": "npm"
-          }
-        },
-        {
-          "version": "0.6.0",
-          "publishTimestamp": 1787627077,
-          "source": {
-            "type": "npm"
-          }
-        },
-        {
-          "version": "0.5.0",
-          "publishTimestamp": 1787619487,
-          "source": {
-            "type": "npm"
-          }
-        },
-        {
-          "version": "0.4.6",
-          "publishTimestamp": 1787020166,
-          "source": {
-            "type": "npm"
-          }
-        },
-        {
-          "version": "0.4.5",
-          "publishTimestamp": 1786932668,
-          "source": {
-            "type": "npm"
-          }
-        },
-        {
-          "version": "0.4.4",
-          "publishTimestamp": 1786932305,
-          "source": {
-            "type": "npm"
-          }
-        },
-        {
-          "version": "0.4.3",
-          "publishTimestamp": 1786931708,
-          "source": {
-            "type": "npm"
-          }
-        },
-        {
-          "version": "0.4.2",
-          "publishTimestamp": 1786931494,
-          "source": {
-            "type": "npm"
-          }
-        },
-        {
-          "version": "0.4.1",
-          "publishTimestamp": 1786798060,
-          "source": {
-            "type": "npm"
-          }
-        },
-        {
-          "version": "0.4.0",
-          "publishTimestamp": 1786773676,
           "source": {
             "type": "npm"
           }
@@ -230421,6 +230425,78 @@
         {
           "version": "0.18.2",
           "publishTimestamp": 1790580819,
+          "source": {
+            "type": "npm"
+          }
+        }
+      ]
+    },
+    {
+      "name": "dsh-ultramath",
+      "title": {
+        "en": "Ultramath"
+      },
+      "description": {
+        "en": "UltraMath 数学建模竞赛多 Agent 求解插件（registry 元数据 + bundle 机制）：把 UltraMath 主控 + 4 角色预设幂等同步到 ~/.dsh/.agent-presets/，并把 SKILL.md、33 篇模型库技能、论文模板（templates/）与审稿脚本（scripts/）同步到 ~/.dsh/skills/ultramath/。纯 node 半侧，无浏览器 UI，不改 DSH 核心源码。"
+      },
+      "homepage": "https://github.com/Andiii208/dsh-ultramath#readme",
+      "repository": {
+        "url": "https://github.com/Andiii208/dsh-ultramath"
+      },
+      "metadata": {
+        "category": "extension",
+        "keywords": [
+          "dsh",
+          "dsh-plugin",
+          "math-modeling",
+          "cumcm",
+          "mcm",
+          "ultramath"
+        ],
+        "labels": [],
+        "sortKeys": {
+          "publishedTimestamp": 1787574473
+        }
+      },
+      "versions": [
+        {
+          "version": "0.6.3",
+          "publishTimestamp": 1787574473,
+          "source": {
+            "type": "npm"
+          }
+        },
+        {
+          "version": "0.6.2",
+          "publishTimestamp": 1787569773,
+          "source": {
+            "type": "npm"
+          }
+        },
+        {
+          "version": "0.6.1",
+          "publishTimestamp": 1787558215,
+          "source": {
+            "type": "npm"
+          }
+        },
+        {
+          "version": "0.6.0",
+          "publishTimestamp": 1787502097,
+          "source": {
+            "type": "npm"
+          }
+        },
+        {
+          "version": "0.4.0",
+          "publishTimestamp": 1787331501,
+          "source": {
+            "type": "npm"
+          }
+        },
+        {
+          "version": "0.3.0",
+          "publishTimestamp": 1787161643,
           "source": {
             "type": "npm"
           }
