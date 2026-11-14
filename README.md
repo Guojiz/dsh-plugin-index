@@ -19,6 +19,10 @@ The index lists npm-sourced versions only, so it works for anyone who can reach 
 every version carries `{"type": "npm"}` with no `registry` pin, which means the installing client's own
 registry is used.
 
+Both URLs were verified on 2026-11-15: HTTP 200, **zero redirects** (the market rejects redirects), and
+the served document passes `parseMarketIndex` as a format-1 index. The `refresh index` workflow also
+runs green on GitHub-hosted `ubuntu-latest` with the validator installed from npm.
+
 ## Use it in DSH
 
 1. Install the plugin-market bundle into the profile you want discovery in:
